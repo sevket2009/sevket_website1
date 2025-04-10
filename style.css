@@ -15,7 +15,7 @@ body {
 
 header {
 
-  background-color: rgba(0, 188, 212, 0.3); /* Halbtransparentes Blau */
+  background-color: rgba(0, 188, 212, 0.7); /* Halbtransparentes Blau */
   color: white;
   text-align: center;
   padding: 20px 0;
@@ -57,7 +57,7 @@ ul {
 
 footer {
     text-align: center;
-    background-color: rgba(0, 188, 212, 0.3); /* Halbtransparentes Blau (gleiche Farbe wie Header) */
+    background-color: rgba(0, 188, 212, 0.7); /* Halbtransparentes Blau (gleiche Farbe wie Header) */
     color: white;
     padding: 10px;
     position: absolute;
