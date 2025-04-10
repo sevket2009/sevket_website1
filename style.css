@@ -1,6 +1,6 @@
 /* Style for Şevket Tan's website */
 body {
-  background-image: url('"C:\Users\PC\Desktop\Marmara Ereglisi\Meer1.png"'); /* Pfad zum Bild im Hauptverzeichnis */
+  background-image: url('Meer1.png'); /* Pfad zum Bild im Hauptverzeichnis */
   background-size: cover;
   background-repeat: no-repeat;
 }
