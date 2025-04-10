@@ -14,10 +14,16 @@ body {
 }
 
 header {
-    background-color: #00bcd4;
+
+  background-color: rgba(0, 188, 212, 0.5); /* Halbtransparentes Blau */
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+
+    /*background-color: #00bcd4;
     color: white;
     text-align: center;
-    padding: 20px 0;
+    padding: 20px 0;*/
 }
 
 header h1 {
