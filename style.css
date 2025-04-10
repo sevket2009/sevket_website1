@@ -14,11 +14,11 @@ body {
 }
 
 header {
-
-  background-color: rgba(0, 188, 212, 0.7); /* Halbtransparentes Blau */
+  background-color: rgba(0, 188, 212, 0.3); /* 30% Transparenz */
   color: white;
   text-align: center;
   padding: 20px 0;
+
 
     /*background-color: #00bcd4;
     color: white;
@@ -56,13 +56,13 @@ ul {
 }
 
 footer {
-    text-align: center;
-    background-color: rgba(0, 188, 212, 0.7); /* Halbtransparentes Blau (gleiche Farbe wie Header) */
-    color: white;
-    padding: 10px;
-    position: absolute;
-    bottom: 0;
-    width: 100%;
+  text-align: center;
+  background-color: rgba(0, 188, 212, 0.3); /* 30% Transparenz (gleiche Farbe wie Header) */
+  color: white;
+  padding: 10px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
   
     /*text-align: center;
     background-color: #00bcd4;
