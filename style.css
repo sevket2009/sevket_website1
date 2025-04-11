@@ -14,7 +14,7 @@ body {
 }
 
 header {
-  background-color: rgba(0, 188, 212, 0.3); /* 30% Transparenz */
+  /*background-color: rgba(0, 188, 212, 0.3); /* 30% Transparenz */
   color: white;
   text-align: center;
   padding: 20px 0;
